@@ -7,4 +7,4 @@ The program reads CSV files according to a schema definition, processes them usi
 ---
 
 ## Data Model Details
-![Data Model](path/to/data_model_image.png)
+![Data Model]([path/to/data_model_image.png](https://github.com/israel-dotdata/File-format-converter/blob/main/images/2023-05-26_09-51-15-b44475f68043ebe48cc1f14ef90afdb8.png))
